@@ -1,4 +1,4 @@
 # Лабораторная работа docker.
-- ФИО: Семин Иван Денисович
+- ФИО: Щевьева Софья
 - Группа: ББСО-04-18
-![Image alt](https://github.com/Vancho-Denisovich/OSLabs/blob/master/docker/screenshot.jpg)
+![Image alt](https://github.com/shSofa/OSlabs/blob/master/docker/img.png)
